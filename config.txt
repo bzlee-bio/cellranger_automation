@@ -1,0 +1,2 @@
+cellranger_path=/mnt/gluster_server/Tools/cellranger-9.0.0/
+reference_path=/mnt/gluster_server/data/reference/refdata-gex-GRCh38-2024-A/

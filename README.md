@@ -262,15 +262,14 @@ Each sample has a log file for detailed information and troubleshooting:
 
 ```
 /data/MyProject/
-├── Raw/
-│   └── fastq/
-│       ├── Sample1/
-│       │   ├── Sample1_S1_L001_R1_001.fastq.gz
-│       │   └── Sample1_S1_L001_R2_001.fastq.gz
-│       └── Sample2/
-│           ├── Sample2_S1_L001_R1_001.fastq.gz
-│           └── Sample2_S1_L001_R2_001.fastq.gz
-└── config.txt
+└── Raw/
+    └── fastq/
+        ├── Sample1/
+        │   ├── Sample1_S1_L001_R1_001.fastq.gz
+        │   └── Sample1_S1_L001_R2_001.fastq.gz
+        └── Sample2/
+            ├── Sample2_S1_L001_R1_001.fastq.gz
+            └── Sample2_S1_L001_R2_001.fastq.gz
 ```
 
 ### 2. **Configure `config.txt`**
